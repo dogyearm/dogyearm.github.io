@@ -7,12 +7,12 @@ theme = "paper"
   color = 'light'                           # linen, wheat, gray, light
 
   # header social icons
-  github = 'dogyearm'                 # github.com/YOUR_GITHUB_ID
+  github = 'dogyearm'                       # github.com/YOUR_GITHUB_ID
   rss = true                                # show rss icon
-  # linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
-  # twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
-  # instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
-  # mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
+  linkedin = 'yutaro-iwamoto'               # linkedin.com/in/YOUR_LINKEDIN_ID
+  # twitter = 'YOUR_TWITTER_ID'             # twitter.com/YOUR_TWITTER_ID
+  # instagram = 'YOUR_INSTAGRAM_ID'         # instagram.com/YOUR_INSTAGRAM_ID
+  # mastodon = 'YOUR_MASTODON_LINK'         # e.g. 'https://mastodon.instance/@xxx'
 
   # home page profile
   avatar = 'https://avatars.githubusercontent.com/u/1782373?v=4'                 # gravatar email or image url
