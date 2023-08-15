@@ -15,7 +15,7 @@ theme = "paper"
   # mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
 
   # home page profile
-  avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
+  avatar = 'https://avatars.githubusercontent.com/u/1782373?v=4'                 # gravatar email or image url
   name = 'dogyearm'
   bio = 'Web Engineer'
 
